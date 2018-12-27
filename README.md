@@ -5,6 +5,7 @@
 ##### 1. Read the articles 'Using Artificial Intelligence to Augment Human Intelligence' and 'Visualizing Representations : Deep Learning and Human Beings' from the recomended readings section of tensorflow/lucid
 ##### 2. Reviewed the code from the colab notebooks 'Lucid Tutorial' and 'Model Zoo'
 ##### 3. Messed with some of the code; successfully generated a banner for my next meetup
+##### 4. Watched lesson 6 from Gene Kogan's 'The Neural Aesthetic' (2018)
 
 **Link to code:** https://colab.research.google.com/drive/1hgd-ZjzBJIktI9m5JEXsG4EhdbYGqlJm
 
@@ -27,3 +28,15 @@
 ##### 13. Apply interpolation to a 3D model
 ##### 14. Explore the work from the research section of tensorflow/lucid
 ##### 15. Network with the lucid team through slack
+
+## Day 2: 
+**Today's Progress:**
+##### 1.
+**Link to code:**
+
+**Thoughts:**
+
+**Future Work:**
+
+
+
