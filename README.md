@@ -5,7 +5,6 @@
 ##### 1. Read the articles 'Using Artificial Intelligence to Augment Human Intelligence' and 'Visualizing Representations : Deep Learning and Human Beings' from the recomended readings section of tensorflow/lucid
 ##### 2. Reviewed the code from the colab notebooks 'Lucid Tutorial' and 'Model Zoo'
 ##### 3. Messed with some of the code; successfully generated a banner for my next meetup
-##### 4. Watched lesson 6 from Gene Kogan's 'The Neural Aesthetic' (2018)
 
 **Link to code:** https://colab.research.google.com/drive/1hgd-ZjzBJIktI9m5JEXsG4EhdbYGqlJm
 
@@ -24,19 +23,25 @@
 ##### 9. Learn the style transfer method discussed in the paper 'Differential Image Parameterizations'
 ##### 10. Bring the Deep Movie method to lucid
 ##### 11. Design a short music video (proof of concept: 30 seconds) using feature visualization as a visual effect
-##### 12. Learn the 3D method discussed in 'Diff Image Params'
+##### 12. Learn the 3D method discussed in 'Differential Image Parameterizations'
 ##### 13. Apply interpolation to a 3D model
 ##### 14. Explore the work from the research section of tensorflow/lucid
 ##### 15. Network with the lucid team through slack
 
 ## Day 2: 
 **Today's Progress:**
-##### 1.
-**Link to code:**
+##### 1. Read article 'Feature Visualization'
+##### 2. Reviewed some colab notebooks: 'Negative Neurons', 'Diversity Visualization', 'Neuron Interactions', and 'Regularizing Visualizations'
+##### 3. Found a repo that demonstrates perlin noise in numpy; began documenting the code in detail
 
-**Thoughts:**
+**Link to code:** https://colab.research.google.com/drive/1L_CMEVJ3wvKOOHL5xRlycS5IVRPwUg5o
+
+**Thoughts:** 
+##### I found the task of producing perlin noise surprisingly difficult. The code repo I found today helped tremendously, but I still need to understand certain parts of it better.
 
 **Future Work:**
-
+##### 1. Extend the perlin noise to 3 dimensions
+##### 2. Add in non-linear interpolation
+##### 3. Tomorrow I will focus on interpolating between feature visualizations
 
 
