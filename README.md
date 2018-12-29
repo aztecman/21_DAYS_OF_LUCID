@@ -47,9 +47,16 @@
 ## Day 3: 
 **Today's Progress:**
 ##### 1. Read 'Building Blocks of Interpretability'
+##### 2. Reviewed the code from 'Aligned Interpretation'
+##### 3. Succeeded at today's goal to create an interpolation of feature visualizations
+**Link to code:** https://colab.research.google.com/drive/1bbSn8p7KjK-2utuhnjgoBMJBwcXvXAES
 
-**Link to code:** 
-
-**Thoughts:** 
+**Thoughts:**
+##### Today was an overall success. I still have along way to go to understand the code fully. I also need to improve my understanding of tensors overall.
 
 **Future Work:**
+##### 1. create a script in gimp using python-fu (better yet imageio python library) to convert panels to animation
+##### 2. review the following colab notebooks: 'semantic dictionaries', 'activation grids', 'spatial attribution', and 'neuron groups'
+##### 3. Create a version where the panels optimize to each other's edges (to make a continuous blend)
+##### 4. Comment the code; figure out how the lowres_tensor operation works
+##### 5. Tomorrow I will give effort to understanding style-transfer
