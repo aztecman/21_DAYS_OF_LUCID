@@ -43,7 +43,8 @@
 ##### 1. Extend the perlin noise to 3 dimensions
 ##### 2. Add in non-linear interpolation
 ##### 3. Tomorrow I will focus on interpolating between feature visualizations
- 
+
+## Day 3: 
 **Today's Progress:**
 ##### 1. Read 'Building Blocks of Interpretability'
 
