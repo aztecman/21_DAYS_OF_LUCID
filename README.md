@@ -60,3 +60,13 @@
 ##### 3. Create a version where the panels optimize to each other's edges (to make a continuous blend)
 ##### 4. Comment the code; figure out how the lowres_tensor operation works
 ##### 5. Tomorrow I will give effort to understanding style-transfer
+
+## Day 4: 
+**Today's Progress:**
+##### 1. Read 
+
+**Link to code:**
+
+**Thoughts:**
+
+**Future Work:**
