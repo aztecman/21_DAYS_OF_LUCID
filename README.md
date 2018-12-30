@@ -55,18 +55,27 @@
 ##### Today was an overall success. I still have along way to go to understand the code fully. I also need to improve my understanding of tensors overall.
 
 **Future Work:**
-##### 1. create a script in gimp using python-fu (better yet imageio python library) to convert panels to animation
-##### 2. review the following colab notebooks: 'semantic dictionaries', 'activation grids', 'spatial attribution', and 'neuron groups'
+##### 1. Create a script in gimp using python-fu (better yet imageio python library) to convert panels to animation
+##### 2. Review the following colab notebooks: 'semantic dictionaries', 'activation grids', 'spatial attribution', and 'neuron groups'
 ##### 3. Create a version where the panels optimize to each other's edges (to make a continuous blend)
 ##### 4. Comment the code; figure out how the lowres_tensor operation works
 ##### 5. Tomorrow I will give effort to understanding style-transfer
 
 ## Day 4: 
 **Today's Progress:**
-##### 1. Read 
+##### 1. Reread the paper, 'Differential Image Parameterizations'
+##### 2. Reviewed the colab notebook 'Sytle Transfer Beyond VGG'
+##### 3. Reproduced the technique in a notebook with a different content and style image
 
-**Link to code:**
+**Link to code:** https://colab.research.google.com/drive/18N_Lq-mCI5Ie2pbaW93P7CJv9api7L2y
 
-**Thoughts:**
+**Thoughts:** I feel like I accomplished just a bit better than the minumum today. That said, I learned a good amount about the 'gram matrix' which is produced my multiplying a matrix by its transpose. 
 
 **Future Work:**
+##### 1. Try a different set of layers for the content and style
+##### 2. Try a different model
+##### 3. Compare the code for deepdream provided by Siraj to the feature visualization code
+##### 4. Read up on deepMovie and style transfer in the video domain
+##### 5. Read the papers linked in 'Differential Image Parameterizations'
+##### 6. Look at Gene Kogan's approach
+##### 7. Explore the work of the original authors, create a visualization of the branching threads (google scholar API)
