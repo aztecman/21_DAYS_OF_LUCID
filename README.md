@@ -79,3 +79,20 @@
 ##### 5. Read the papers linked in 'Differential Image Parameterizations'
 ##### 6. Look at Gene Kogan's approach
 ##### 7. Explore the work of the original authors, create a visualization of the branching threads (google scholar API)
+
+## Day 5:
+**Today's Progress:**
+##### 1. Reread the section from 'Differential Image Parameterizations' on 'Compositional Pattern Producing Networks' (CPPN)
+##### 2. Reproduced the technique 'CPPN'
+
+**Link to code:** https://colab.research.google.com/drive/1FIkCm0AKmyVpgDVyjOM2pANZtfigR2xK
+
+**Thoughts:** I had glossed over this section before. Now I'm feeling as though it deserves a full paper to itself. We learn about the title of the paper in this section: "CPPNs are a differentiable image parameterization — a general tool for parameterizing images in any neural art or visualization task"
+
+**Future Work:**
+##### 1. Try varying the activation function
+##### 2. Try making a video of the training
+##### 3. Try rendering at arbitrary resolutions (time it)
+##### 4. Try interpolating between visualizations
+##### 5. Read the original paper on CPPN
+##### 5. Tomorrow I'll look into generating semi-transparent patterns
