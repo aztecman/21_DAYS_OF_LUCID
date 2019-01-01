@@ -82,7 +82,7 @@
 
 ## Day 5:
 **Today's Progress:**
-##### 1. Reread the section from 'Differential Image Parameterizations' on 'Compositional Pattern Producing Networks' (CPPN)
+##### 1. Reread the section from 'Differential Image Parameterizations' (DIP) on 'Compositional Pattern Producing Networks' (CPPN)
 ##### 2. Reproduced the technique 'CPPN'
 
 **Link to code:** https://colab.research.google.com/drive/1FIkCm0AKmyVpgDVyjOM2pANZtfigR2xK
@@ -96,3 +96,19 @@
 ##### 4. Try interpolating between visualizations
 ##### 5. Read the original paper on CPPN
 ##### 5. Tomorrow I'll look into generating semi-transparent patterns
+
+## Day 6:
+**Today's Progress:**
+##### 1. Reread the section on 'Generation of Semi-Transparent Patterns' (from DIP)
+##### 2. Reproduced the technique in a colab notebook
+
+**Link to code:** https://colab.research.google.com/drive/1Qvli2GDBPXA09WzMpQsoET9YCuMD11I6
+
+**Thoughts:** The images seem very different from the original feature visualizations.
+
+**Future Work:**
+##### 1. Compare the visualizations produced by a given neuron in vanilla feature visualization VS CPPN VS semi-transparent
+##### 2. Find a way to visualize the output of the image_sample function directly (seems to produce perlin noise)
+##### 3. Try the FFMPEG technique demonstrated in the paper
+##### 4. Tomorrow I'll try out feature visualization projected onto a 3d model
+
