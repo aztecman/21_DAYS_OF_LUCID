@@ -112,3 +112,20 @@
 ##### 3. Try the FFMPEG technique demonstrated in the paper
 ##### 4. Tomorrow I'll try out feature visualization projected onto a 3d model
 
+## Day 7:
+**Today's Progress:**
+##### 1. Reread the section on 'Efficient Texture Optimization through 3D Rendering'
+##### 2. Experimented with creating a texture for a 3d model through feature visualization
+
+**Link to code:** https://colab.research.google.com/drive/1fQvGxE2JFZJ33Ofcm3C20jPM0B8wCtZl
+
+**Thoughts:** Feeling thrilled that this came together. I was anticipating this section greatly over the last few days. As it turns out, I had to make several attempts in order to get the 3D model to display with a texture at all. The way I have it now is somewhat hacky... but I'm happy with the aesthetic quality of the results.
+
+**Future Work:**
+##### 1. Bring the generated texture back into the 3d software environment (blender)
+##### 2. Design a vase.
+##### 3. Display the texture the "correct" way (using a seam rather than numerous tiles).
+##### 4. Create an animated texture (also display in blender)
+##### 5. Find some robotic looking layers... design a cool robot model in blender with feature visualization as a part of the workflow {shiny outer shell, complex internals showing through the cracks}
+##### 6. Tomorrow I plan to try out 3D style transfer
+
