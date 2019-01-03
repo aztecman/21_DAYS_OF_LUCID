@@ -9,7 +9,7 @@
 **Link to code:** https://colab.research.google.com/drive/1hgd-ZjzBJIktI9m5JEXsG4EhdbYGqlJm
 
 **Thoughts:**
-##### I found the article 'Using Artificial Intelligence to Augment Human Intelligence' very interesting. The authors discuss how learning math and art (and other things) augment our ability to conceptualize and communicate. And so if we learn about Neural Nets, we open our minds to potentially greater depth. My feeling is that certain topics have a richness that allows for this... while others allow for it to a lesser degree. Take for example the 'study' of video-games. A persons mind is probably made much deeper by playing a complex strategy game, than a quick-reaction shooter... however, I would expect some improvements in both gamers cognition. 
+##### I found the article 'Using Artificial Intelligence to Augment Human Intelligence' very interesting. The authors discuss how learning math and art (and other things) augment our ability to conceptualize and communicate. And so if we learn about Neural Nets, we open our minds to potentially greater depth. My feeling is that certain topics have a richness that allows for this... while others allow for it to a lesser degree. Take for example the 'study' of video-games. A person's mind is probably made deeper by playing a complex strategy game, than a quick-reaction shooter... however, I would expect some improvements in both gamers cognition. 
 
 **Future Work:**
 ##### 1. Explore the parameters 'transforms' and 'param_f' in greater detail
@@ -129,3 +129,21 @@
 ##### 5. Find some robotic looking layers... design a cool robot model in blender with feature visualization as a part of the workflow {shiny outer shell, complex internals showing through the cracks}
 ##### 6. Tomorrow I plan to try out 3D style transfer
 
+## Day 8:
+**Today's Progress:**
+##### 1. Reread the section titled 'Style Transfer for Textures through 3D Rendering'
+##### 2. Designed a 3D model + texture to apply style transfer to (blender)
+##### 3. Created a unique 3d texture using style transfer and the methods discussed in Differentiable Image Parameterizations
+##### 4. Rendered the texture back onto the 3d model successfully.
+
+**Link to code:** https://colab.research.google.com/drive/1rX0TePYx07ee8Exd4ZarmrWKFnzWapfI
+
+**Thoughts:** Very proud of the results from today's experiment.
+
+**Future Work:**
+##### 1. Create an animated 3D style transfer
+##### 2. Explore the methods used at the end of the code
+##### 3. Review the code more thoroughly
+##### 4. Provide some of the resources for reproducability
+##### 4. Try out other sets of layers and parameters
+##### 5. Tomorrow I will explore creating animations with feature visualization
