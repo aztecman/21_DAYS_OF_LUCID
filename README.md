@@ -147,3 +147,16 @@
 ##### 4. Provide some of the resources for reproducability
 ##### 4. Try out other sets of layers and parameters
 ##### 5. Tomorrow I will explore creating animations with feature visualization
+
+## Day 9:
+**Today's Progress:**
+##### 1. Used python code to make a gif for the first time
+##### 2. created an animation out of the interpolation technique discussed previously
+
+**Link to code:** https://colab.research.google.com/drive/1VZu7qhlsFch0mVw-ctsRF0UiPbBX8s0T
+
+**Thoughts:** Ran out of GPU memory for the colab worksheet today. Tried to run it again on my computer with some success. Also ran into some GPU issues there (needs more power). I'd like to find a way to produce more frames without increasing the image size.
+
+**Future Work:**
+##### 1. Disassemble the functions that allow this to work
+##### 2. Tomorrow I will attempt to produce perlin noise in 3 dimensions.
