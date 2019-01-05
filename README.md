@@ -160,3 +160,17 @@
 **Future Work:**
 ##### 1. Disassemble the functions that allow this to work
 ##### 2. Tomorrow I will attempt to produce perlin noise in 3 dimensions.
+
+## Day 10:
+**Today's Progress:**
+##### 1. Looked at yet to be released research
+##### 2. Found a piece of code that creates 3D perlin noise (in numpy)
+
+**Link to code:** https://colab.research.google.com/drive/1eiLy9ciqMFozqkKGwZXUU1J1XyiBMGh5
+
+**Thoughts:** Felt the weight of failure today. After vigorously studying the code I'd previously copied for the 2D perlin noise... I found myself confused and frustrated. I was able to decipher a good portion of the code, but in the end I was left with a puzzle half-constructed. As a path forward, I found another coder who had been more successful at such efforts.
+
+**Future Work:**
+##### 1. Compare the 3D and 2D example provided by Pierre Vigier (https://github.com/pvigier)
+##### 2. Attempt to construct a 1D perlin noise (function) in numpy
+##### 3. Animate a deep dream (of noise)
