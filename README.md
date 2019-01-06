@@ -174,3 +174,15 @@
 ##### 1. Compare the 3D and 2D example provided by Pierre Vigier (https://github.com/pvigier)
 ##### 2. Attempt to construct a 1D perlin noise (function) in numpy
 ##### 3. Animate a deep dream (of noise)
+
+## Day 11:
+**Today's Progress:**
+##### 1. Replaced the fft noise with perlin noise (for feature visualization)
+
+**Link to code:** https://colab.research.google.com/drive/1_skeSqAPfzLzKrwSIMw_ASmaUAYoFL2l
+
+**Thoughts:** Today's task was challenging. It felt good to succeed.
+
+**Future Work:**
+##### 1. Synthesize Perlin noise in color
+##### 2. Apply feature visualization to a series of frames (of noise)
