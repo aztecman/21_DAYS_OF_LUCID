@@ -186,3 +186,20 @@
 **Future Work:**
 ##### 1. Synthesize Perlin noise in color
 ##### 2. Apply feature visualization to a series of frames (of noise)
+
+## Day 12:
+**Today's Progress:**
+##### 1. Learned to graph a function (in pylab)
+##### 2. Implemented the REAL perlin function (from the 1980s movie Tron)
+##### 3. Worked backwards from a 2D/3d noise example to write a 1D perlin noise function
+
+**Link to code:** https://colab.research.google.com/drive/1bWqdV-vVCxzf2dRtHnjrlpcKUgSx7sWe
+
+**Thoughts:** I'm finally starting to 'get' perlin noise.
+
+**Future Work:**
+##### 1. Explore radial perlin noise (in 1 dimension)
+##### 2. Explore using noise for interpolation of a single image (in a similar way to the ramp technique of Gene Kogan)
+##### 3. Explore symmetrical noise
+##### 4. Explore interpolating visualizations with the peaks (of noise) first... sort of like a mountainous rock rising from the sand.
+
