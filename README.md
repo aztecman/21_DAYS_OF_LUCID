@@ -203,3 +203,21 @@
 ##### 3. Explore symmetrical noise
 ##### 4. Explore interpolating visualizations with the peaks (of noise) first... sort of like a mountainous rock rising from the sand.
 
+## Day 13:
+**Today's Progress:**
+##### 1. Explored a variety of functions from tensorflow/lucid that support feature visualization (such as the details of 'render')
+##### 2. Explored a number of visualizations using CPPN
+##### 3. Explored creating an animation out of the process of creating a CPPN
+##### 4. Explored creating images of arbitrary size with the CPPN
+##### 5. Discovered a series of articles detailing experiments with the CPPN
+
+**Link to code:** https://colab.research.google.com/drive/17TatN0y7ZP8YO4C2M6JQDMdve3GWfkib
+
+**Thoughts:** My main goal today was to mask the gradients of the update function as demonstrated by Gene Kogan [https://twitter.com/genekogan/status/1074359156084072448]. At this I did not succeed. Tensorflow presents a unique set of challenges when it comes to debugging. I set myself the easier task of creating some cool looking large renders with a CPPN. I also discovered a rather awesome blog that talks about CPPN.
+
+**Future Work:**
+##### 1. Explore the work of 'Otoro' (David Ha?) on CPPNs http://blog.otoro.net/archive.html (2016)
+##### 2. Try to move (slide) the visualization over time. Try creating kaleidoscopic images using CPPNs
+##### 3. Explore combining the objective functions for CPPNs
+##### 4. Explore masking the gradient of a CPPN
+##### 5. Succeed where I failed today
