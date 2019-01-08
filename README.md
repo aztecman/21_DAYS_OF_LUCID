@@ -213,7 +213,7 @@
 
 **Link to code:** https://colab.research.google.com/drive/17TatN0y7ZP8YO4C2M6JQDMdve3GWfkib
 
-**Thoughts:** My main goal today was to mask the gradients of the update function as demonstrated by Gene Kogan [https://twitter.com/genekogan/status/1074359156084072448]. At this I did not succeed. Tensorflow presents a unique set of challenges when it comes to debugging. I set myself the easier task of creating some cool looking large renders with a CPPN. I also discovered a rather awesome blog that talks about CPPN.
+**Thoughts:** My main goal today was to mask the gradients of the update function as demonstrated by Gene Kogan https://twitter.com/genekogan/status/1074359156084072448. At this I did not succeed. Tensorflow presents a unique set of challenges when it comes to debugging. I set myself the easier task of creating some cool looking large renders with a CPPN. I also discovered a rather awesome blog that talks about CPPN.
 
 **Future Work:**
 ##### 1. Explore the work of 'Otoro' (David Ha?) on CPPNs http://blog.otoro.net/archive.html (2016)
