@@ -221,3 +221,18 @@
 ##### 3. Explore combining the objective functions for CPPNs
 ##### 4. Explore masking the gradient of a CPPN
 ##### 5. Succeed where I failed today
+
+## Day 14:
+**Today's Progress:**
+##### 1. Read a few references from DIP
+##### 2. Explored a variety of feature visualizations using the 'diversity' method from this article: https://distill.pub/2017/feature-visualization/
+##### 3. Began to explore the method known as 'Caricatures'
+
+**Link to code:** https://colab.research.google.com/drive/15PDZTFeQioK2SiRCHQJwZW4EE8p7QhJW
+
+**Thoughts:** I spent some more time today looking at how I might approach masking gradients. From what I can see, Gene Kogan prefers Caffe... Not a library I'm feeling eager to learn. I discovered a number of functions in tensorflow that might do the trick but I'm still just stumbling in the dark without a sense of real direction.
+https://github.com/genekogan/deepdream
+
+**Future Work:**
+##### 1. Explore 'Caricatures' in more detail
+##### 2. Ask for help masking gradients on the slack channel for lucid
