@@ -236,3 +236,17 @@ https://github.com/genekogan/deepdream
 **Future Work:**
 ##### 1. Explore 'Caricatures' in more detail
 ##### 2. Ask for help masking gradients on the slack channel for lucid
+
+## Day 15:
+**Today's Progress:**
+##### 1. Explored more of 'Attribution Caricatures'
+##### 2. Asked for help on the slack channel.
+##### 3. Fooled around with breaking the code in various ways
+
+**Link to code:** https://colab.research.google.com/drive/1NZtkvk7oSiugFaVc37SQxi-SiwodrGoC
+
+**Thoughts:** Sometimes progress is very slow.
+
+**Future Work:**
+##### 1. Explore methods of rendering at larger size
+##### 2. Explore transformations (for feature visualization)
