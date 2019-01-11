@@ -250,3 +250,16 @@ https://github.com/genekogan/deepdream
 **Future Work:**
 ##### 1. Explore methods of rendering at larger size
 ##### 2. Explore transformations (for feature visualization)
+
+## Day 16:
+**Today's Progress:**
+##### 1. Successfully produced non-square, arbitrary size outputs using feature visualization and caricatures
+
+**Link to code:** https://colab.research.google.com/drive/1zB2LOQ9lWOJFnY5P9gIJyZ1iUe08wkBg
+
+**Thoughts:** Today's work was surprisingly easy. I had noticed the parameter 'h' before and suspected that it would be useful. 'sd' (standard deviation) is another parameter for initialization which might be interesting to explore.
+
+**Future Work:**
+##### 1. Explore use of of 'sd' param
+##### 2. Explore 'negative activations' and 'neuron interactions' in combination with 'diversity'
+##### 2. Try interpolating caricatures
