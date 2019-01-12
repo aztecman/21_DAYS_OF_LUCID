@@ -263,3 +263,20 @@ https://github.com/genekogan/deepdream
 ##### 1. Explore use of of 'sd' param
 ##### 2. Explore 'negative activations' and 'neuron interactions' in combination with 'diversity'
 ##### 2. Try interpolating caricatures
+
+## Day 17:
+**Today's Progress:**
+##### 1. Worked on my coming presentation on Art and AI at Holberton: https://www.meetup.com/san-francisco-school-of-ai/events/257387650/
+##### 2. Wrote up a 'better' tutorial notebook for Lucid
+##### 3. Had a major breakthrough after midnight, I'll share more tomorrow
+
+**Link to code:** https://colab.research.google.com/drive/1Hq_9fQtA3Fa8wx3Z4giLt4uCQfPJCcE8
+
+**Thoughts:** Today's work was initially just doing what had to be done. This evening however, I accomplished something outside of the prescribed box. This feeling of touching hard to reach places is surely what makes artists and researchers pursue their respective crafts with passion.
+
+**Future Work:**
+##### 1. Explore the deep dream code further, compare three versions.
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/deepdream/deepdream.ipynb
+https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb
+https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
+##### 2. Combine Interpolation with tonights rolling technique.
