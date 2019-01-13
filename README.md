@@ -280,3 +280,19 @@ https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutoria
 https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb
 https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
 ##### 2. Combine Interpolation with tonights rolling technique.
+
+## Day 18:
+**Today's Progress:**
+##### 1. Experimented with 'rolling' an image mid-update in order to produce tile-ability
+##### 2. Tried out tiling
+##### 3. Tried out continuous scrolling animation
+
+**Link to code:** https://colab.research.google.com/drive/1efa7zyz9NwPe7hkR-lmiMMoatlD5MoqY
+
+**Thoughts:** Had alot of fun with this today. I still have some further areas to explore.
+
+**Future Work:**
+##### 1. Explore using tf.image.resize_bilinear in a similar way to rolling
+##### 2. Ask about transformations on the slack (why didn't my original method of rolling work? or did it...)
+##### 3. Combine interpolation with the rolling technique
+##### 4. Find a method to improve tiling (ideas: active rotation, smaller adjustments along the gradient, intialized tiled color-noise, incremental noise adjustments, smudging)
