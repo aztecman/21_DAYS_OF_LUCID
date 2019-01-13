@@ -286,13 +286,13 @@ https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
 ##### 1. Experimented with 'rolling' an image mid-update in order to produce tile-ability
 ##### 2. Tried out tiling
 ##### 3. Tried out continuous scrolling animation
+##### 4. Tried out increasing the number of stages for an interpolation without increasing the number of low res tensors (initial results seem fine)
 
 **Link to code:** https://colab.research.google.com/drive/1efa7zyz9NwPe7hkR-lmiMMoatlD5MoqY
 
-**Thoughts:** Had alot of fun with this today. I still have some further areas to explore.
+**Thoughts:** Had alot of fun with this today. I still have some further areas to explore. Attempted to combine with interpolation: total failure.
 
 **Future Work:**
 ##### 1. Explore using tf.image.resize_bilinear in a similar way to rolling
-##### 2. Ask about transformations on the slack (why didn't my original method of rolling work? or did it...)
-##### 3. Combine interpolation with the rolling technique
-##### 4. Find a method to improve tiling (ideas: active rotation, smaller adjustments along the gradient, intialized tiled color-noise, incremental noise adjustments, smudging)
+##### 2. Ask about transformations on the slack (why didn't my original method of rolling work (as a transform)? or did it...)
+##### 3. Find a method to improve tiling (ideas: active rotation, smaller adjustments along the gradient, tiled color-noise (initial values))
