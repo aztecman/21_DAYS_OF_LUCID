@@ -296,3 +296,16 @@ https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
 ##### 1. Explore using tf.image.resize_bilinear in a similar way to rolling
 ##### 2. Ask about transformations on the slack (why didn't my original method of rolling work (as a transform)? or did it...)
 ##### 3. Find a method to improve tiling (ideas: active rotation, smaller adjustments along the gradient, tiled color-noise (initial values))
+
+## Day 19:
+**Today's Progress:**
+##### 1. Played around with the 'deepdream' objective function
+##### 2. Explored mixing interpolation with the deepdream method
+
+**Link to code:** https://colab.research.google.com/drive/1Qaj6G06rZGJaC6eYEM03T52bx4gu-9ih
+
+**Thoughts:** Two ideas failed (interpolating caricatures and zooming), but in the end, I was able to achieve something new and interesting.
+
+**Future Work:**
+##### 1. Plug 3D noise into the deepdream interpolation func (in the notebook above)
+##### 2. Compare this deepdream method to the one defined in tensorflow/examples/tutorials/deepdream/
