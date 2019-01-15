@@ -331,11 +331,10 @@ https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
 ## Day 21:
 **Today's Progress:**
 ##### 1. 
-##### 2. 
 
 **Link to code:** 
 
-**Thoughts:** 
+**Thoughts:** My assumption yesterday about exhausting resources turned out to be false. I suspect a currupt image file was at fault.
 
 **Future Work:**
 
