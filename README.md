@@ -330,7 +330,8 @@ https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
 
 ## Day 21:
 **Today's Progress:**
-##### 1. 
+##### 1. Reviewed past work
+##### 2.
 
 **Link to code:** 
 
