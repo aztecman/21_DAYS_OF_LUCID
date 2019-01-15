@@ -309,3 +309,20 @@ https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
 **Future Work:**
 ##### 1. Plug 3D noise into the deepdream interpolation func (in the notebook above)
 ##### 2. Compare this deepdream method to the one defined in tensorflow/examples/tutorials/deepdream/
+
+## Day 20:
+**Today's Progress:**
+##### 1. Learned to make color perlin noise (in 3D)
+##### 2. Combined the 3D perlin noise with interpolated feature visualization
+##### 3. Tried out adding a mask to the noise
+
+**Link to code:** https://colab.research.google.com/drive/1x1dd4YLwlcMye64B6R3CRiMhxKtHaf1D#scrollTo=8-er1T6fkotB
+
+**Thoughts:** It seems I've exhausted my daily resources for colab. We'll see if I am allowed to resume tomorrow.
+
+**Future Work:**
+##### 1. Try appling a threshold to the noise
+##### 2. Try creating a more interesting mask (gradients)
+##### 3. Try using a video of the clouds
+##### 4. Try using an animated mask
+##### 5. Try adding extra mask late in the process
