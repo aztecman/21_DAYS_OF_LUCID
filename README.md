@@ -6,7 +6,7 @@
 ##### 2. Reviewed the code from the colab notebooks 'Lucid Tutorial' and 'Model Zoo'
 ##### 3. Messed with some of the code; successfully generated a banner for my next meetup
 
-**Link to code:** https://colab.research.google.com/drive/1hgd-ZjzBJIktI9m5JEXsG4EhdbYGqlJm
+**Link to code:** I'll post the code when the lucid/distill team releases a paper on caricatures
 
 **Thoughts:**
 ##### I found the article 'Using Artificial Intelligence to Augment Human Intelligence' very interesting. The authors discuss how learning math and art (and other things) augment our ability to conceptualize and communicate. And so if we learn about Neural Nets, we open our minds to potentially greater depth. My feeling is that certain topics have a richness that allows for this... while others allow for it to a lesser degree. Take for example the 'study' of video-games. A person's mind is probably made deeper by playing a complex strategy game, than a quick-reaction shooter... however, I would expect some improvements in both gamers cognition. 
@@ -243,7 +243,7 @@ https://github.com/genekogan/deepdream
 ##### 2. Asked for help on the slack channel.
 ##### 3. Fooled around with breaking the code in various ways
 
-**Link to code:** https://colab.research.google.com/drive/1NZtkvk7oSiugFaVc37SQxi-SiwodrGoC
+**Link to code:** I'll post the code when the distill/lucid community releases a paper on this.
 
 **Thoughts:** Sometimes progress is very slow.
 
@@ -255,7 +255,7 @@ https://github.com/genekogan/deepdream
 **Today's Progress:**
 ##### 1. Successfully produced non-square, arbitrary size outputs using feature visualization and caricatures
 
-**Link to code:** https://colab.research.google.com/drive/1zB2LOQ9lWOJFnY5P9gIJyZ1iUe08wkBg
+**Link to code:** I'll post the code when the distill/lucid community releases a paper on this.
 
 **Thoughts:** Today's work was surprisingly easy. I had noticed the parameter 'h' before and suspected that it would be useful. 'sd' (standard deviation) is another parameter for initialization which might be interesting to explore.
 
@@ -316,7 +316,7 @@ https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
 ##### 2. Combined the 3D perlin noise with interpolated feature visualization
 ##### 3. Tried out adding a mask to the noise
 
-**Link to code:** https://colab.research.google.com/drive/1x1dd4YLwlcMye64B6R3CRiMhxKtHaf1D#scrollTo=8-er1T6fkotB
+**Link to code:** https://colab.research.google.com/drive/1x1dd4YLwlcMye64B6R3CRiMhxKtHaf1D
 
 **Thoughts:** It seems I've exhausted my daily resources for colab. We'll see if I am allowed to resume tomorrow.
 
@@ -326,3 +326,16 @@ https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
 ##### 3. Try using a video of the clouds
 ##### 4. Try using an animated mask
 ##### 5. Try adding extra mask late in the process
+
+
+## Day 21:
+**Today's Progress:**
+##### 1. 
+##### 2. 
+
+**Link to code:** 
+
+**Thoughts:** 
+
+**Future Work:**
+
