@@ -330,12 +330,15 @@ https://github.com/llSourcell/deep_dream_challenge/blob/master/deep_dream.py
 
 ## Day 21:
 **Today's Progress:**
-##### 1. Reviewed past work
-##### 2.
+##### 1. Reviewed past work, noting the major highlights
 
-**Link to code:** 
+**Link to code:** https://colab.research.google.com/drive/1S-UGWm-K8jA7g285O59LbHbby8_LRH4w
 
-**Thoughts:** My assumption yesterday about exhausting resources turned out to be false. I suspect a currupt image file was at fault.
+**Thoughts:** My assumption yesterday about exhausting resources turned out to be false. I suspect a currupt image file was at fault. Today I did exhaust the GPU resources afforded by colab
 
 **Future Work:**
+##### 1. Combine diversity with 3D feature visualization
+##### 2. Create an animated mask for interpolation
+##### 3. See what happens when I use symmetrical noise
+##### 4. Try to produce rollable noise (goal: improve the rolling technique)
 
